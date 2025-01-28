@@ -90,19 +90,19 @@ me.say_hello()
 ## 👨‍💻 GitHub Stats
 
 <a href="https://github.com/otgomes/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=otgomes&show_icons=true&rank_icon=github&title_color=39a0ca&text_color=#f95d9b&icon_color=ffff00&bg_color=161748" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=otgomes&show_icons=true&theme=calm_pink&rank_icon=github&title_color=8957e5&text_color=&icon_color=fa5e55&bg_color=11161c" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otgomes&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/otgomes/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otgomes&layout=compact&langs_count=&card_width=320&theme=calm_pink&title_color=8957e5&text_color=&icon_color=fa5e55&bg_color=11161c" />
 </a>
 
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/otgomes/CSS3-Fundamentals">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otgomes&repo=CSS3-Fundamentals&theme=dark" alt="CSS3-Fundamentals" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otgomes&repo=CSS3-Fundamentals&theme=catppuccin_latte" alt="CSS3-Fundamentals" />
 </a>
 <a href="https://github.com/otgomes/CSS3-Fundamentals">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otgomes&repo=CSS3-Fundamentals&theme=dark" alt="CSS3-Fundamentals" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otgomes&repo=CSS3-Fundamentals&theme=catppuccin_latte" alt="CSS3-Fundamentals" />
 </a>
 
 ## 🏆 GitHub Trophies
