@@ -33,7 +33,9 @@ me.say_hello()
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS3](https://github.com/otgomes/CSS3)
+- [CSS3 - Pizza Restaurant Website](https://github.com/otgomes/css3/tree/main/16-Exerc_final)
+- [HTML5 - Accounting Website](https://github.com/otgomes/html5/tree/main/14-accounting-website)
+- [JavaScript - Number Guess](https://github.com/otgomes/javascript/tree/main/18-number-guess)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
@@ -98,11 +100,11 @@ me.say_hello()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/otgomes/CSS3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otgomes&repo=CSS3-Fundamentals&theme=catppuccin_latte" alt="CSS3-Fundamentals" />
+<a href="https://github.com/otgomes/javascript">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otgomes&repo=javascript&theme=catppuccin_latte" alt="JavaScript - Fundamentals and Projects" />
 </a>
-<a href="https://github.com/otgomes/CSS3">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otgomes&repo=CSS3-Fundamentals&theme=catppuccin_latte" alt="CSS3-Fundamentals" />
+<a href="https://github.com/otgomes/css3">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otgomes&repo=css3&theme=catppuccin_latte" alt="CSS3 - Fundamentals and Projects" />
 </a>
 
 ## 🏆 GitHub Trophies
