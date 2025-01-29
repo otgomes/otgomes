@@ -36,7 +36,7 @@ me.say_hello()
 - [CSS3 - Pizza Restaurant Website](https://github.com/otgomes/css3/tree/main/16-Exerc_final)
 - [HTML5 - Accounting Website](https://github.com/otgomes/html5/tree/main/14-accounting-website)
 - [JavaScript - Number Guess](https://github.com/otgomes/javascript/tree/main/18-number-guess)
-- [MySQL - Tables of cars](https://github.com/otgomes/mysql)
+- [MySQL - Tables of Cars](https://github.com/otgomes/mysql)
 
 <!-- BLOG-POST-LIST:END -->
 
