@@ -97,7 +97,7 @@ me.say_hello()
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=otgomes&show_icons=true&theme=calm_pink&rank_icon=github&title_color=8957e5&text_color=f5f0e1&icon_color=fa5e55&bg_color=11161c&border_color=f5f0e1" />
 </a>
 <a href="https://github.com/otgomes/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otgomes&layout=compact&langs_count=&card_width=320&theme=calm_pink&title_color=8957e5&text_color=f5f0e1&icon_color=&bg_color=11161c&border_color=f5f0e1" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=otgomes&layout=compact&langs_count=8&card_width=320&theme=calm_pink&title_color=8957e5&text_color=f5f0e1&icon_color=&bg_color=11161c&border_color=f5f0e1" />
 </a>
 
 ## 🗂️ Highlight Projects
