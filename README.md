@@ -25,10 +25,10 @@ me.say_hello()
 
 ## 📝 Blogs
 
-- Personal website and blog: https://github.com/otgomes
-- Notes of GCP CLoud Engineer - Associate: https://drive.google.com/file/d/1MeKb1wB621PHVSwTSRtId0b41YvgcgGU/view?usp=sharing
-- [WIP] LeetCode Solutions & Notes: https://leetcode.com/u/otgomes/
-- Courses and Certificates: https://drive.google.com/drive/folders/1fgxkILf6TiBwWazJHm7EcvO9ectZ2s0P?usp=sharing
+- Personal website and blog: [Link here!](https://github.com/otgomes)
+- Notes of GCP CLoud Engineer - Associate: [Link here!](https://drive.google.com/file/d/1MeKb1wB621PHVSwTSRtId0b41YvgcgGU/view?usp=sharing)
+- [WIP] LeetCode Solutions & Notes: [Link here!](https://leetcode.com/u/otgomes/)
+- Courses and Certificates: [Link here!](https://drive.google.com/drive/folders/1fgxkILf6TiBwWazJHm7EcvO9ectZ2s0P?usp=sharing)
 
 ### 📔 Latest Blog posts
 
