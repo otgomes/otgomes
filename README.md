@@ -33,7 +33,7 @@ me.say_hello()
 ### 📔 Latest Blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS3 - Fundamentals](https://github.com/otgomes/CSS3-Fundamentals)
+- [CSS3](https://github.com/otgomes/CSS3)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Technologies & Tools
@@ -98,10 +98,10 @@ me.say_hello()
 
 ## 🗂️ Highlight Projects
 
-<a href="https://github.com/otgomes/CSS3-Fundamentals">
+<a href="https://github.com/otgomes/CSS3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otgomes&repo=CSS3-Fundamentals&theme=catppuccin_latte" alt="CSS3-Fundamentals" />
 </a>
-<a href="https://github.com/otgomes/CSS3-Fundamentals">
+<a href="https://github.com/otgomes/CSS3">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=otgomes&repo=CSS3-Fundamentals&theme=catppuccin_latte" alt="CSS3-Fundamentals" />
 </a>
 
