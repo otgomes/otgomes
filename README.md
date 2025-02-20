@@ -29,7 +29,7 @@ me.say_hello()
 - Notes of GCP CLoud Engineer - Associate: [Link here!](https://drive.google.com/file/d/1MeKb1wB621PHVSwTSRtId0b41YvgcgGU/view?usp=sharing)
 - [WIP] LeetCode Solutions & Notes: [Link here!](https://leetcode.com/u/otgomes/)
 - Courses and Certificates: [Link here!](https://drive.google.com/drive/folders/1P1GRtyC3c_FseNVAEaL_ExF8quQLoBdP?usp=sharing)
-- HackerRank Profile: [Link here!](https://www.hackerrank.com/profile/kenjiotv)
+- HackerRank Profile: [Link here!](https://www.hackerrank.com/profile/otaviogomes)
 
 ### 📔 Latest Blog posts
 
